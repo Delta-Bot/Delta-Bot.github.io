@@ -6,7 +6,7 @@
   right: 0;
   z-index: 9999;
   width: 100%;
-  background-color: #a6a89c;
+  background-color: #ff0000;
 }
 .logo {
  margin-top: -5px; 
@@ -59,10 +59,10 @@ a.sitename, a:visited.sitename {
   color: #dde1e2;
 }
 .show {
-  background-image: url(assets/down-arrow-icon.png);
+  background-image: url(images/down-arrow-icon.png);
 }
 .hide {
-  background-image: url(assets/up-arrow-icon.png);
+  background-image: url(images/up-arrow-icon.png);
 }
 
 @media only screen and (max-width: 800px) {
